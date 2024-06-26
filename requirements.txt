@@ -46,3 +46,4 @@ bqplot
 
 # Import pylj
 pylj
+numba
