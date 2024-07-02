@@ -8,4 +8,12 @@
       ]
     }
   }
+{
+  "LiteBuildConfig": {
+    "federated_extensions": [
+      "https://example.com/path/to/example-package-1.0.0-py3-none-any.whl"
+    ]
+  }
+}
+
   
