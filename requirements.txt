@@ -45,5 +45,4 @@ plotly>=5,<6
 bqplot
 
 # Import pylj
-pylj
-https://github.com/maximillian-dolan/pylj/archive/master.zip
+pylj_whl.txt
