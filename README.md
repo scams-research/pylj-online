@@ -1,4 +1,4 @@
-JupyterLite deployed as a static site to GitHub Pages!
+JupyterLite deployed as a static site to GitHub Pages
 
 ## ✨ Try it in your browser ✨
 
