@@ -14,3 +14,9 @@ To see the package source code, you can check out the main [repository](https://
 
 ## JupyterLite
 ## Streamlit
+* * *
+# Get in contact
+
+Any issues with the package itself, please raise [here](https://github.com/arm61/pylj/issues).
+
+For any problems with the online version, raise a new issue on the github page for either the [streamlit](https://github.com/maximillian-dolan/pylj_streamlit/issues) or [jupyterlite](https://github.com/maximillian-dolan/pylj-jupyterlite/issues)
