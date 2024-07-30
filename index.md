@@ -18,7 +18,7 @@ Pylj can be accessed and used online through one of two methods:
 
 JupyterLite is built on Pyodide, and allows notebooks to be run entirely in the browser, hosted as a github page. This contains the same example notebooks that are available on the main [repository](https://github.com/arm61/pylj).
 
-The notebooks can be accessed [here](maximillian-dolan.github.io/pylj-jupyterlite), or the repository for the page can be accessed [here](https://github.com/maximillian-dolan/pylj-jupyterlite)
+The notebooks can be accessed [here](https://maximillian-dolan.github.io/pylj-jupyterlite/lab/index.html), or the repository for the page can be accessed [here](https://github.com/maximillian-dolan/pylj-jupyterlite)
 
 ## Streamlit
 
