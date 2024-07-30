@@ -12,8 +12,18 @@ To see the package source code, you can check out the main [repository](https://
 * * *
 # Acessing online
 
+Pylj can be accessed and used online through one of two methods:
+
 ## JupyterLite
+
+JupyterLite is built on Pyodide, and allows notebooks to be run entirely in the browser, hosted as a github page. This contains the same example notebooks that are available on the main [repository](https://github.com/arm61/pylj).
+
+The notebooks can be accessed [here](maximillian-dolan.github.io/pylj-jupyterlite), or the repository for the page can be accessed [here](https://github.com/maximillian-dolan/pylj-jupyterlite)
+
 ## Streamlit
+
+For a less code-heavy version of Pylj simulations, you can use this [dashboard](https://pylj-online.streamlit.app/) built on Streamlit. This is run purely through using sliders to input values and utlises the plotly libray instead of matplotlib.
+
 * * *
 # Get in contact
 
